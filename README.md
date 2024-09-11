@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working as a Data Engineer at [KPMG India](https://kpmg.com/in/en/home.html)
 
-- 🌱 I’m currently learning **Gen-AI applications for webApps with Langchain and RAG Models**
+- 🌱 I’m currently learning **Gen-AI applications for Web Apps with Langchain and RAG Models**
 
 - 👯 I’m looking to collaborate on **interesting full stack web dev projects that have AI and ML implementations **
 
-- 💬 Ask me about **Unity, Unreal, Node, SQL,Java, Spring Boot, Python and Cloud**
+- 💬 Ask me about **LLM's, Unity, Unreal, Node, SQL, Java, Spring Boot, Python and Cloud**
 
 - 📫 How to reach me **abhisheknerella12@gmail.com**
 
