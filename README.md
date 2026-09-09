@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Nerella</h1>
 <h3 align="center">Full Stack Dev || Data Engineer </h3>
 
-- 🔭 I’m currently working as a Data Engineer at [KPMG India](https://kpmg.com/in/en/home.html)
+- 🔭 I used to work as a Data Engineer at [KPMG India](https://kpmg.com/in/en/home.html)
 
-- 🌱 I’m currently learning **Gen-AI applications for Web Apps with Langchain and RAG Models**
-
-- 👯 I’m looking to collaborate on **interesting full stack web dev projects that have AI and ML implementations **
-
-- 💬 Ask me about **LLM's, Unity, Unreal, Node, SQL, Java, Spring Boot, Python and Cloud**
-
-- 📫 How to reach me **abhisheknerella12@gmail.com**
+- 🌱 I’m currently working on Self-hosting small scale LLM on Local devices under compute constraint
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/realmachas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devyansh_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/realmachas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abhishek_Nerella" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
